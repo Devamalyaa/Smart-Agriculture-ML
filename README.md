@@ -1,4 +1,4 @@
-# Smart Agriculture Yield Prediction using Machine Learning
+# Smart Agriculture Yield Prediction using Machine Learning with model comparision and clustering
 
 ## Overview
 This project predicts crop yield using machine learning models such as:
