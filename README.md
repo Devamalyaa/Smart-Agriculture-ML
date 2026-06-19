@@ -68,15 +68,16 @@ K-Means clustering was used to group similar agricultural conditions and identif
 ## 📂 Project Structure
 
 ```text
-Smart-Agriculture-Yield-Prediction/
-│
-├── notebook/
-│   └── smart_agriculture.ipynb
+Smart-Agriculture-ML/
 │
 ├── images/
+│   ├── model_comparison.png
+│   ├── actual_vs_predicted.png
+│   ├── kmeans_clustering.png
+│   └── feature_importance.png
 │
+├── Copy_of_Smart_Agriculture_Yield_Prediction.ipynb
 ├── README.md
-│
 └── requirements.txt
 ```
 
